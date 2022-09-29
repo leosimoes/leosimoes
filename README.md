@@ -1,6 +1,6 @@
 <h1 align="center">Leonardo Simões</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leosimoes&show_icons=true&locale=en" alt="leosimoes" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leosimoes&show_icons=true&locale=en" alt="leosimoes" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
