@@ -10,4 +10,13 @@
         <div>Udacity - Nanodegree - Data Analyst</div>
         <div>Udacity - Nanodegree - Machine Learning Engineer</div>
     </section>
+    <section align="center">
+        <h2>Participações em Eventos e Competições</h2>
+        <div>
+            UERJ sem Muros - 
+            23ª e 24ª SEMIC (Semana de Iniciação Científica) da UERJ - 
+            2014 e 2015
+        </div>
+        <div>Maratona SBC de Programação - Primeira Fase - 2015 e 2017</div>
+    </section>
 </main>
