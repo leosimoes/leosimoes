@@ -19,4 +19,10 @@
         </div>
         <div>Maratona SBC de Programação - Primeira Fase - 2015 e 2017</div>
     </section>
+    <section align="center">
+        <h2>Experiência Profissional</h2>
+        <div>PIBIC/UERJ - Projeto de Pesquisa - Iniciação Científica - Programador Java</div>
+        <div>Quantum Finance - Estágio de TI - Programador Java</div>
+        <div>Freelancer</div>
+    </section>
 </main>

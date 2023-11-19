@@ -23,4 +23,10 @@
             First phase - 2015 and 2017
         </div>
     </section>
+    <section align="center">
+        <h2>Professional Experience</h2>
+        <div>PIBIC/UERJ - Research Project - Scientific Initiation - Java Programmer</div>
+        <div>Quantum Finance - IT Internship - Java Programmer</div>
+        <div>Freelancer</div>
+    </section>
 </main>
