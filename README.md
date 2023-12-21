@@ -12,6 +12,11 @@
     </section>
     <br/>
     <section align="center">
+        <h2 align="center">Certifications</h2>
+        <div align="center">AWS Certified Cloud Practitioner (CLF-C02)</div>
+    </section>
+    <br/>
+    <section align="center">
         <h2 align="center">Participation in Events and Competitions</h2>
         <div align="center">
             UERJ sem Muros - 23ª and 24ª SEMIC 

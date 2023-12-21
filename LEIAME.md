@@ -12,6 +12,11 @@
     </section>
     <br/>
     <section align="center">
+        <h2 align="center">Certificações</h2>
+        <div align="center">AWS Certified Cloud Practitioner (CLF-C02)</div>
+    </section>
+    <br/>
+    <section align="center">
         <h2 align="center">Participações em Eventos e Competições</h2>
         <div align="center">
             UERJ sem Muros - 
