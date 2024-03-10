@@ -36,6 +36,8 @@
         <div align="center">Freelancer</div>
     </section>
     <section align="center">
-        <h2 align="center">Portfólio</h2>
+        <h2 align="center">Portfolio</h2>
+        <div align="center"><a href="https://profilegit.streamlit.app/">Github Profiles - Report and Dashboard</a></div>
+        <div align="center"><a href="https://canadadatajobs.streamlit.app/">Canada - Data jobs 2024</a></div>    
     </section>
 </main>
