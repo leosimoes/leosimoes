@@ -10,6 +10,13 @@
 </header>
 <main>
     <section align="center">
+        <h2 align="center">Skills</h2>
+        <div align="center">Front-end: HTML, CSS, JavaScript, TypeScript, Bootstrap, Vue.js.</div>
+        <div align="center">Back-end: Rest API, MVC, Java, Spring, Quarkus, Django, Flask, Node.js, Express.js.</div>
+        <div align="center">Dados: SQL, MySQL, PostgreSQL, NoSQL, MongoDB, Redis, Python, Streamlit, Microsoft Power BI, Machine Learning.</div>
+        <div align="center">DevOps: Docker, Shell Script, CI/CD, AWS, Git, Github.</div>
+    </section>
+    <section align="center">
         <h2 align="center">Education</h2>
         <div align="center">UERJ - Bachelor's Degree - Computer Engineering</div>
         <div align="center">Udacity - Nanodegree - Data Analyst</div>
