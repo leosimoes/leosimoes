@@ -6,7 +6,8 @@
         <a href="https://leonardosimoes.streamlit.app/">Portfólio</a>
         |
         <a href="https://www.linkedin.com/in/leoqsimoes/">LinkedIn</a>
-    </div> 
+    </div>
+    <br/>
 </header>
 <main>
     <section align="center">
@@ -16,6 +17,7 @@
         <div align="center">Data: SQL, MySQL, PostgreSQL, NoSQL, MongoDB, Redis, Python, Streamlit, Microsoft Power BI, Machine Learning.</div>
         <div align="center">DevOps: Docker, Shell Script, CI/CD, AWS, Git, Github.</div>
     </section>
+    <br/>
     <section align="center">
         <h2 align="center">Formação Acadêmica</h2>
         <div align="center">UERJ - Bacharelado - Engenharia de Computação</div>

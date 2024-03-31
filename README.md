@@ -6,9 +6,10 @@
         <a href="https://leonardosimoes.streamlit.app/">Portfolio</a>
         |
         <a href="https://www.linkedin.com/in/leoqsimoes/">LinkedIn</a>
-    </div> 
+    </div>
+    <br/>
 </header>
-<main>
+<main> 
     <section align="center">
         <h2 align="center">Skills</h2>
         <div align="center">Front-end: HTML, CSS, JavaScript, TypeScript, Bootstrap, Vue.js.</div>
@@ -16,6 +17,7 @@
         <div align="center">Dados: SQL, MySQL, PostgreSQL, NoSQL, MongoDB, Redis, Python, Streamlit, Microsoft Power BI, Machine Learning.</div>
         <div align="center">DevOps: Docker, Shell Script, CI/CD, AWS, Git, Github.</div>
     </section>
+    <br/>
     <section align="center">
         <h2 align="center">Education</h2>
         <div align="center">UERJ - Bachelor's Degree - Computer Engineering</div>
