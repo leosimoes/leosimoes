@@ -3,7 +3,7 @@
     <div align="center">Engenheiro de Computação | Desenvolvedor Back-end | Cientista de Dados</div>
     <br/>    
     <div align="center">
-        <a href="https://leonardosimoes.streamlit.app/">Portfolio</a>
+        <a href="https://leonardosimoes.streamlit.app/">Portfólio</a>
         |
         <a href="https://www.linkedin.com/in/leoqsimoes/">LinkedIn</a>
     </div> 
