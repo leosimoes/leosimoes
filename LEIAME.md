@@ -1,7 +1,12 @@
 <header align="center" style="text-align: center;">
     <h1 align="center">Leonardo Simões</h1>
     <div align="center">Engenheiro de Computação | Desenvolvedor Back-end | Cientista de Dados</div>
-    <br/>
+    <br/>    
+    <div align="center">
+        <a href="https://leonardosimoes.streamlit.app/">Portfolio</a>
+        |
+        <a href="https://www.linkedin.com/in/leoqsimoes/">LinkedIn</a>
+    </div> 
 </header>
 <main>
     <section align="center">
@@ -31,10 +36,5 @@
         <div align="center">PIBIC/UERJ - Projeto de Pesquisa - Iniciação Científica - Programador Java</div>
         <div align="center">Quantum Finance - Estágio de TI - Programador Java</div>
         <div align="center">Freelancer</div>
-    </section>
-    <section align="center">
-        <h2 align="center">Portfólio</h2>
-        <div align="center"><a href="https://profilegit.streamlit.app/">Github Profiles - Report and Dashboard</a></div>
-        <div align="center"><a href="https://canadadatajobs.streamlit.app/">Canada - Data jobs 2024</a></div> 
     </section>
 </main>
