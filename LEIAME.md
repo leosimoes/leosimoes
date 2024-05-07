@@ -23,6 +23,9 @@
         <div align="center">UERJ - Bacharelado - Engenharia de Computação</div>
         <div align="center">Udacity - Nanodegree - Data Analyst</div>
         <div align="center">Udacity - Nanodegree - Machine Learning Engineer</div>
+        <div align="center">DIO - Bootcamp - Québec Java Digital</div>
+        <div align="center">Codenation - AceleraDev - Data Science</div>
+        <div align="center">Codenation - AceleraDev - Java</div>
     </section>
     <br/>
     <section align="center">
